@@ -1,0 +1,4 @@
+.pytest_cache
+gen_test_data/data/*
+output/*
+.DS_Store
